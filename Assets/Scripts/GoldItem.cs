@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GoldItem : Item
+public class GoldItem : Item // Item 스크립트 상속
 {
     public int goldAmount = 1; // 적 사망시 드랍하는 골드량
 
